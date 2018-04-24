@@ -22,7 +22,9 @@ text=c("is this english?"
        ,"merde"
        ,"Hello world. This is some input text that I love."
        ,"R is awesome"
-       ,"صباح الخير")
+       ,"صباح الخير"
+       ,"قال رئيس الوزراء الأسترالي مالكوم تيرنبول أن سياسة حماية الحدود المتشددة هي المفتاح للحفاظ على ثقة الاستراليين بالحكومة وقدرتها على تنظيم عملية الهجرة."
+       , "بشرى سارة لعشاق القهوة: اشرب 3 فناجين يومياً واحمِ قلبك!") 
 
 # Prep data
 df<-data_frame(id=1:length(text),text)
@@ -121,3 +123,56 @@ sentimentResponse <- fromJSON(respcontent)$documents %>%
 finalDft <- dft2 %>%
   left_join(sentimentResponse) 
 
+
+prettify(toJSON(subset( finalDft, language == "ar")))
+
+
+
+##
+##
+## Translate Text 
+
+cogTranslateApi <- "https://api.cognitive.microsoft.com/sts/v1.0"
+cogTranslateApiKey <- "37b98bfef810450fa65ee9715f99656d"
+
+
+response <- GET(cogTranslateApi,
+                add_headers("Ocp-Apim-Subscription-Key"=cogTranslateApiKey))
+
+translateRequest <- list("appid")
+
+
+jsonRequest <- "<TranslateArrayRequest>
+  <AppId />
+<From>language-code</From>
+<Options>
+<Category xmlns=\"http://schemas.datacontract.org/2004/07/Microsoft.MT.Web.Service.V2\" >string-value</Category>
+<ContentType xmlns=\"http://schemas.datacontract.org/2004/07/Microsoft.MT.Web.Service.V2\">text/plain</ContentType>
+<ReservedFlags xmlns=\"http://schemas.datacontract.org/2004/07/Microsoft.MT.Web.Service.V2\" />
+<State xmlns=\"http://schemas.datacontract.org/2004/07/Microsoft.MT.Web.Service.V2\" >int-value</State>
+<Uri xmlns=\"http://schemas.datacontract.org/2004/07/Microsoft.MT.Web.Service.V2\" >string-value</Uri>
+<User xmlns=\"http://schemas.datacontract.org/2004/07/Microsoft.MT.Web.Service.V2\" >string-value</User>
+</Options>
+<Texts>
+<string xmlns=\"http://schemas.microsoft.com/2003/10/Serialization/Arrays\">string-value</string>
+<string xmlns=\"http://schemas.microsoft.com/2003/10/Serialization/Arrays\">string-value</string>
+</Texts>
+<To>language-code</To>
+</TranslateArrayRequest>"
+
+textts <- c("text1", "text2")
+textts_df <- data_frame(string = textts  )
+
+rr <- list(TranslateArrayRequest = list(From="en", 
+                                Options = list(
+                                  Category = "scat", 
+                                  ContentType = "cc",
+                                  ReservedFlags = "", 
+                                  State = 1, 
+                                  Uri = "as", 
+                                  User = "user"), 
+                                Texts = textts_df, 
+                                To = "en"
+                                )
+) 
+rr
