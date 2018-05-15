@@ -1,5 +1,6 @@
 # https://stackoverflow.com/questions/11389415/calculating-lagged-values
 
+library(zoo)
 
 #Start with a simple one column matrix
 x <- matrix(1:6, ncol = 1)
@@ -26,7 +27,7 @@ head(df2, 75)
 # moving mean for the previous days not including the current day (e.g. 5 represents the mean of the 5 previous days)
 df3 = df %>% group_by(site) %>% arrange(site, year,day) %>%
   mutate(temp.lag1 = lag(temp, n = 1)) %>% 
-  mutate(temp.5.previous = rollapply(data = temp.lag1, 
+  mutate(temp.5.previous = zoo::rollapply(data = temp.lag1, 
                                      width = 5, 
                                      FUN = mean, 
                                      align = "right", 
