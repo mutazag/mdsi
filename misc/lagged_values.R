@@ -34,3 +34,40 @@ df3 = df %>% group_by(site) %>% arrange(site, year,day) %>%
                                      fill = NA, 
                                      na.rm = T))
 head(df2, 75)
+
+
+
+
+head(df)
+
+df_historical <- df 
+
+featurise <- function (x, hh){
+  # return(paste("site: ", x$site, " year: ", x$year, " day ", x$day, " temp ", x$temp))
+  # print("run")
+  # print(x)
+  hh %>% filter(site == x$site ) %>%
+    arrange(desc(year), desc(day)) -> h
+  which(h$year == x$year & h$day == x$day) -> i
+
+  h %>% filter(row_number() > i ) %>% head(3) %>% summarise(m3 = mean(temp)) -> x$m3
+  h %>% filter(row_number() > i ) %>% head(6) %>% summarise(m6 = mean(temp)) -> x$m6
+  # print(x)
+  return(x)
+}
+df$m3 <- NA
+df$m6 <- NA
+
+
+df<-as.data.frame(df)
+lapply(df, featurise, hh = df)
+mapply(df, featurise, hh= df)
+df2 <- data_frame(site=df$site, year=df$year, day=df$day, df$temp, df$m3, df$m6)
+apply(df, nrow(df), featurise, hh=df)
+df2 %>% mutate_all(funs(featurise(.,hh=df2)))
+
+
+for(i in 1:nrow(df)){
+  x <- df[i,]
+  df[i,] <- featurise(x, df)
+}
