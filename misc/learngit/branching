@@ -44,4 +44,18 @@ notes:
 * can now switch between branches to make edits, local files in one branch will not be visibile in other branches if are not synced with remote then locally to the new branch or branches were merged 
 
 
+4) if i want to merge master back into the new branch i will have to first commit all local changes in the branch (or stash them -- about that later), then do a git merge command 
+
+  git checkout learngit
+  git merge master 
+  
+notes: 
+
+* checkout to the local branch to be updated
+* merge refering to the other branch that need to be merged into the sleected branch, in this case, master is merged into learngit
+* note how gitk now shows the branch and then the merge with the master 
+* files that where added independently in master are now also visible in the branch (when checkout to branch is performed) 
+
+
+
 
