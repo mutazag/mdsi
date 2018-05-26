@@ -1,0 +1,29 @@
+
+
+https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+
+
+1) create a new branch 
+
+  git branch learngit
+  
+  
+2) switch to the new branch 
+
+  git checkout learngit
+  
+  
+notes: 
+
+* you can use the command: "git checkout -b learngit" to combine the above two steps
+
+* to switch back to master
+
+  git checkout master
+  
+* to list branches 
+
+  git branch 
+  
+  
+
