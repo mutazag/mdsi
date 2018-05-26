@@ -33,3 +33,15 @@ sit in relation to local master and remote master
   
   git push --set-upstream origin learngit 
 
+
+
+notes: 
+
+* can make more changes to files in the local branch and keep pushing to upstream
+
+* gitk will show that local branch is advancing independently from master
+
+* can now switch between branches to make edits, local files in one branch will not be visibile in other branches if are not synced with remote then locally to the new branch or branches were merged 
+
+
+
