@@ -26,4 +26,10 @@ notes:
   git branch 
   
   
+at this stage github (remote) knows nothing about the new branch. look at gitk to see where does the new branch 
+sit in relation to local master and remote master
+
+3) push my branch to upstream, notice the use of --set-upstream
+  
+  git push --set-upstream origin learngit 
 
