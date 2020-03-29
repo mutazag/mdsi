@@ -1,0 +1,1229 @@
+[33mcommit 8b08999af299cbf6d95be2dd51cdd44230c0122b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Mar 29 12:15:15 2020 +1100
+
+    delete lfs
+
+[33mcommit f95190f5cfe064eaf837f321a4986eb5f01646ef[m
+Merge: a15aa82 7e8db14
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Mar 29 12:14:26 2020 +1100
+
+    cleanup push
+
+[33mcommit a15aa8286abbf6917e27e7e39dedc126661d06bc[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Feb 22 19:26:47 2020 +1100
+
+    graph in python
+
+[33mcommit 7e8db14954bbbd3fbcc6d650f4833f007cd0b287[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri Jun 21 11:44:27 2019 +0700
+
+    cleanup
+
+[33mcommit d880c9e6daa78997279dd128a4810b44dfe248fb[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri Jun 21 11:40:20 2019 +0700
+
+    linux ida
+
+[33mcommit d1f026ac7dc7fbcfa7f89e4df28eb25f76f1186a[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Jun 20 13:35:23 2019 +0700
+
+    extracted_features
+
+[33mcommit 8fe78fc351b451cbe56e9ae737b94f03100e29da[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed Jun 19 19:18:18 2019 +1000
+
+    reading different sheets
+
+[33mcommit e4242445906b98ac1a17afa82397da6aa452baa7[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Jun 13 13:57:05 2019 +1000
+
+    unit testing in python
+
+[33mcommit 1dd4c3a5c843ad26749e83c5f01566a5c66591fb[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Jan 24 13:09:49 2019 +0700
+
+    python playing with path and folder names, creating a partitioned folder name for storing data extracts
+
+[33mcommit f10668f2389b1165ed3759c8de5fc1642e172298[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed Jan 23 16:01:28 2019 +0700
+
+    playing with json files
+
+[33mcommit 3920b7881cac36998b21e828b6398802225cdfbd[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Jan 17 15:13:56 2019 +1100
+
+    pandas melt and pivot for tidying data sets
+
+[33mcommit 1a69a0c7b8633beeead692a4b7c96e41916fad08[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue Jan 15 10:49:08 2019 +1100
+
+    python load and look at data, basic plotting
+
+[33mcommit 584105d773da93e5b3a58b912354c3d01acc090b[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue Jan 15 09:47:07 2019 +1100
+
+    py cleaning data module - downloaded all data files
+
+[33mcommit 8502304f76f19bc26a5e08ad555ae8faeb945b83[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Jan 13 10:42:20 2019 +1100
+
+    json and api with python
+
+[33mcommit 52bc9f194966bfba573d1c158c083616e64d337c[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Jan 13 10:20:22 2019 +1100
+
+    python loading web files using requests and BeutifulSoup
+
+[33mcommit 3d4ff1709cbfbc847679956a65b58ce5c1e91dca[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Jan 12 22:50:13 2019 +1100
+
+    import sas and stata files
+
+[33mcommit 8dcd6c35e8c176c7e4af8ac4f15ac329217a6055[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed Jan 2 11:57:25 2019 +1100
+
+    python working with files, numpy pandas csv and pickle
+
+[33mcommit e98e66cc6ab0f3f9384f871f30ef687f9713bb59[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed Jan 2 00:24:08 2019 +1100
+
+    iterators, list comprehensions, generatos, etc
+
+[33mcommit 1bd4c84ec25cd2b034034fd19296e9177bf26a5b[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue Jan 1 12:17:33 2019 +1100
+
+    more python on datacamp
+
+[33mcommit f332d995dcbcd0874896f3306508622fe57c1aa0[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Dec 8 21:45:51 2018 +1100
+
+    completed a simple k-means clustering using sklearn
+
+[33mcommit 623bc8b0e9f91742da8073e878ff42fdcd0408a0[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Dec 8 21:27:40 2018 +1100
+
+    git ignore python files
+
+[33mcommit 6bde9992f242cc03298fb52de1e712bd7167c2fe[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Dec 8 21:24:29 2018 +1100
+
+    train KNN on iris and test
+
+[33mcommit 709f9fc47d1b41f325fc98460a522b501e4c6f4c[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Dec 8 21:12:19 2018 +1100
+
+    fix old file
+
+[33mcommit aab9e0fe6fc64ddec3501f71c77e60ea5f5c093a[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Dec 8 21:11:41 2018 +1100
+
+    prepare iris data using sklearn
+
+[33mcommit d0288af7028aa6f2363c47da3977c4f9a29ba0e3[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Dec 8 16:11:20 2018 +1100
+
+    reorganise py folder
+
+[33mcommit 4e4ba6c262d3e80ae101c6a660f91efcd9cb7d62[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue Nov 27 10:21:03 2018 +1100
+
+    edx python course
+
+[33mcommit 65a77eb25a8fb3eaa21116cab717dddc4e0799a6[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue Nov 13 23:09:26 2018 +1100
+
+    first py pandas
+
+[33mcommit 2c8dc640d8554b33e643c50c4ae87d7dc33048ac[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue Nov 13 22:35:51 2018 +1100
+
+    py simple if condition
+
+[33mcommit 3451e218b4349273642482966b9b0c360b3b52b3[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue Nov 13 22:35:03 2018 +1100
+
+    plots in py
+
+[33mcommit 67379488a8494f985e5ba17d8ad7185974dfa43b[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue Nov 13 22:24:33 2018 +1100
+
+    ggplot with python, did not work!
+
+[33mcommit 858bd6b2ab7b9260bc2705cccb1b6e82067b73bd[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue Nov 13 01:05:26 2018 +1100
+
+    plots in python
+
+[33mcommit 3b02e0930afcfac32ce852232bba5eb4aa810261[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon Nov 12 23:55:49 2018 +1100
+
+    numpy, random normal, mean and median
+
+[33mcommit 16926bda7014aafa7580b7f24bbb8d1132478db0[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon Nov 12 23:43:34 2018 +1100
+
+    learnpu
+
+[33mcommit cd34d1c39a9ae13b0a37d79e4f7afdf017315a1f[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Oct 28 14:34:14 2018 +1100
+
+    fixed spelling mistakes
+
+[33mcommit 428961a22891510554e34c2fa94c0e580a476e2a[m
+Author: Mutaz Abu Ghazaleh <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Oct 28 00:50:19 2018 +1100
+
+    quant competencies analysis
+
+[33mcommit a77deab2050753d5e5f01e9a0d6e13a4c3def816[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Jul 29 09:41:56 2018 +1000
+
+    initialise STDS for spring 2018
+
+[33mcommit bc4bf83d2bba7eabbc0c5e1f7535c5a3509d0462[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Jul 29 09:39:01 2018 +1000
+
+    finsed moving DAM and DSI to own repos
+
+[33mcommit 259ca02dda8f080bbdaaec1fd42fc8bb1bad64f3[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Jul 29 09:33:13 2018 +1000
+
+    cleanup and reorganise repos, moved DAM and DSI to own repositories
+
+[33mcommit 5e1c108462185c79f639efb0a44315e0ea50cd90[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Jun 3 00:03:14 2018 +1000
+
+    DAM bs04 finished in class excercises
+
+[33mcommit 6456dcb39397e16d22a8d536406e51802b49ffe2[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Jun 3 00:02:44 2018 +1000
+
+    mdsi update .getignore
+
+[33mcommit 6161026f1691dc578cccf1a3c80cc61d49659bb5[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Jun 2 12:29:00 2018 +1000
+
+    sample nnet fitted on ISLR OJ data set
+
+[33mcommit 7106c5b8cb0ed1a0f1e3d4ca206d3bf0d3cf8291[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Jun 2 09:58:24 2018 +1000
+
+            changing the cost of SVM
+
+[33mcommit b741ac3c878db59d4fe57f40db58e0e7f8839ab9[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Jun 2 09:49:33 2018 +1000
+
+    DAM bs03 : excercise 1 - created a support vector and explored plotting it
+
+[33mcommit cbfb892e31c89bcee855ea4fcadde2216d22348d[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Jun 2 09:19:29 2018 +1000
+
+    DAM bs04 - commit in class excercise as a project
+
+[33mcommit db5b732c24173257f770d3edc3ae1be25cdf8d2b[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Jun 2 09:17:34 2018 +1000
+
+            modified:   mteadam (modified content, untracked content)
+    syncing commit comments from submodule
+
+[33mcommit b65b0e214863813342ec2335c884055b231c8037[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Jun 2 09:14:53 2018 +1000
+
+            new file:   DAM/bs04/01-svm.R
+            new file:   DAM/bs04/02-svm.R
+            new file:   DAM/bs04/03-svm.R
+            new file:   DAM/bs04/04-svm.R
+    DAM bs04 - starting point for class excercises
+
+[33mcommit 25281cdfa94fc81c5eb5fe20a56d0744332c1596[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Jun 2 09:14:39 2018 +1000
+
+    misc - simple code to dummify a factor
+
+[33mcommit 2a0531768a9ae55986b034ebe5f844c6a5a15a1a[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue May 29 13:45:37 2018 +1000
+
+    cleanup of commits and changes
+
+[33mcommit be74b37a34d40553f330d4a09a3400102539e29a[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon May 28 04:15:33 2018 +1000
+
+    DAM atb2 -- completed assignment
+
+[33mcommit a599a7b7a493ac9b5965b4963c0c4df4653d3e2d[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 22:26:07 2018 +1000
+
+    DAM at2b added pruning to decision tree
+
+[33mcommit bb888a1bbc49da70785fa341df68e0a8666785c4[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 20:21:49 2018 +1000
+
+    DAM at2b - created rpart (tree) models and tested with diferent cofiguration
+
+[33mcommit e875d727cfe3e63e250dcd029cd50bfc062efbf4[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 19:41:39 2018 +1000
+
+    DAM at2b testing glm with more configuration until reached a higer specificity using a lower cut and removing gender and age_band as they contain a very high number of missing values
+
+[33mcommit e3ab602990ad76c693ce6ecceffa74097dc2703d[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 18:04:26 2018 +1000
+
+    DAM at2a finished glm method including producing some performance measures -- still need interpetation
+
+[33mcommit e6afb09d065a09b79e2eab76f680debfeaeeea7c[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 12:54:57 2018 +1000
+
+    DAM at2b glm() first
+
+[33mcommit 725aef6a24402388f88031ae151973570cd14ed7[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 12:54:03 2018 +1000
+
+    DAM at2b - data prep and featurised dataset
+
+[33mcommit fa7a21ee0f0f3b6a1a75b91a7d6680410314283a[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 05:46:06 2018 +1000
+
+    DAM at2b initial explortation
+
+[33mcommit 8c0d4a9e3bcb8ee13b98dcf34024068045f50130[m
+Merge: 39ad908 7cf2b0b
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 03:11:55 2018 +1000
+
+    learngit finish branching
+
+[33mcommit 39ad908de27472163f2ca63ff8622b60e097bc56[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 03:02:58 2018 +1000
+
+    learngit, finalise a brnach and delete it
+
+[33mcommit 7cf2b0b8459a967639bbb2c87018f6e2d58dea00[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 03:02:58 2018 +1000
+
+    learngit, finalise a brnach and delete it
+
+[33mcommit 75477d2b8f13f8867cfdb9bbeb327da549d0ed68[m
+Merge: 000d881 7d8f7f4
+Author: Mutaz Abu Ghazaleh <mutazag@hotmail.com>
+Date:   Sun May 27 02:58:11 2018 +1000
+
+    Merge pull request #1 from mutazag/learngit
+    
+    Learngit
+
+[33mcommit 7d8f7f4d3c46b060508864e9033a488f6e645d30[m
+Merge: d8d63b0 000d881
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 02:51:53 2018 +1000
+
+    Merge branch 'master' into learngit
+
+[33mcommit d8d63b09fac20e538beac90bc91834a3e6fa84fd[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 02:50:32 2018 +1000
+
+    learngit merging a branch into another
+
+[33mcommit 000d881281806d3f7c323844a25bff6a355d6918[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 02:43:08 2018 +1000
+
+    DAM at2b - setup files
+
+[33mcommit 236e9c6a2ff7c25241628633093405bfbe71f9fe[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 02:39:48 2018 +1000
+
+    learngit, updated file in a branch, add and commit, and then push change to upstream branch
+
+[33mcommit f03992dc94684c49e8aa99b5596d60c135a6a0bf[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 02:31:24 2018 +1000
+
+    learngit: commiting to a branch first
+
+[33mcommit bafd36be1e14d4f71576b54423e6e4572fb62523[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 02:19:38 2018 +1000
+
+    DAM - glm logistic regression, which way to cut?
+    understanding how to interpret positive and negative classes in logistic regression, which is whict
+
+[33mcommit a4f5b3c5d4f396e926cdb600378d305759abb1f2[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 02:18:23 2018 +1000
+
+    DAM bs03 Random Forest - library include is missing to plot forest tree - library(rpart.plot)
+
+[33mcommit 6ee7e5506d05793a887e992f3dab7d2cc9e12717[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 27 01:22:49 2018 +1000
+
+    DAM evaluate glm logistic
+
+[33mcommit f13c38ace3062d7c2a923174cd9d2fdee9b8617b[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 26 01:15:48 2018 +1000
+
+    DAM bs02 - logistic regrssion cross validation with lasso and ridge -- comparing the fit output based on different type.measure: auc, mse or default: binomial devieant
+
+[33mcommit f9e941f54b1778ae995347a2730914af570361f0[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 26 01:03:53 2018 +1000
+
+    DAM bs02 - PCR and prccomp to calculate PCA - PCA used for linear regression
+
+[33mcommit 77d5e8d3b588a17daa0b7ffb3dd1ca8b10c2f341[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 26 00:05:37 2018 +1000
+
+    DAM bs02 - logistic regrssion cross validation with lasso and ridge
+
+[33mcommit d91a1f15e92d6cbb36612431c5dfff2dd7a6dbf4[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri May 25 23:44:35 2018 +1000
+
+    DAM bs02 - logistic regrssion glm - basic excecrise
+
+[33mcommit 77ff5c624ac836335f4b89c1c0818f89b8bf75fb[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue May 22 14:09:13 2018 +1000
+
+    DSI AT2b creating insights
+
+[33mcommit c62a84196fb4acd9ec314e8b278699c7d6aed1ad[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue May 22 02:05:28 2018 +1000
+
+    DSI ATaB combine all data sets in 1 group df, 1 persona data frame#
+
+[33mcommit b270139c95815823786c0a01d1fbb4caa733788c[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue May 22 00:12:28 2018 +1000
+
+    DSI at2a - summarising files to one entry per user per day (mood and sleep)
+
+[33mcommit 8b6205f3a21c88ca9a3c498a28d4a914112f043b[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 20 23:34:25 2018 +1000
+
+    DSI at2A -- analysis and insights
+
+[33mcommit 428c4e6bf5cd394e02bd8de2b6e445a057361706[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 20 02:57:50 2018 +1000
+
+    DSI at2b processing moode file
+    analysing mood and creating some charts and word clouds
+
+[33mcommit 25594e6ed2a1ec195e4b81b4b4c665ffcc612a5e[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 19 14:51:17 2018 +1000
+
+    DSI at2b finished processing sleep and saved a final summary sleep file
+
+[33mcommit fb152775a7d7c5ebb43a7f054594222ef9c3647b[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 19 12:49:04 2018 +1000
+
+    DSI AT2B rename R files
+
+[33mcommit 290a285d695a282e43b1b24399f06bb6cbdb69eb[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri May 18 15:27:29 2018 +1000
+
+    DAM  at2a added an appendix on model improviement '
+
+[33mcommit 3f90dd6e1f715a5ddbbc7a91f980d72dca3b0aa9[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri May 18 05:54:16 2018 +1000
+
+    dsi at2a finished assignment
+
+[33mcommit 87418ec6facf0e6f1beddd5f26d9bcc66c74cf8c[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu May 17 01:01:10 2018 +1000
+
+    DSI at2a more modelling with some comments
+
+[33mcommit 343f51983f31545950bb8848b75dbac00cb79b9f[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed May 16 23:58:44 2018 +1000
+
+    DSI at2a feature engineerd the data set and saved to file
+
+[33mcommit 2a4ac5a5ce73975df118443d17f891761abc27ea[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed May 16 22:17:01 2018 +1000
+
+    misc created a loop to featurise by created lagged features '
+
+[33mcommit ef1c7b3989c78b829bf7d70eaacb2d1d2dee5bdd[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed May 16 22:16:33 2018 +1000
+
+    dam at2a 03  modelling
+
+[33mcommit f0bf3c81c15b8eb8d178145b1bc6c6e8bb68e765[m
+Merge: 08557e4 029b732
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed May 16 03:00:03 2018 +1000
+
+    Merge branch 'master' of https://github.com/mutazag/mdsi
+
+[33mcommit 08557e438b5da198fa043d85c953a5a22b7bda19[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed May 16 02:59:12 2018 +1000
+
+    DSI AT2A created a function to encapsulate model fitting and printing of test results using the lm() function
+
+[33mcommit 44657ba39ca529eb6450a2f15488213a3d3c0e54[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed May 16 00:25:27 2018 +1000
+
+    DAM at2a finished tasks 1 and 2
+
+[33mcommit 0e0682cec01e70d47c756185940d21b1b87a42fa[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue May 15 22:01:50 2018 +1000
+
+    DAM AT2a - prepare code files for submission
+
+[33mcommit 5c2a809d04591c8f5bc543dacd689d64939d8e72[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue May 15 11:42:25 2018 +1000
+
+    DSI at2A -- add library(broom) for augment() function call
+
+[33mcommit 029b73229a5ee6924ec22407fcaa7f1898897e67[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue May 15 11:42:25 2018 +1000
+
+    DSI at2A -- add library(broom) for augment() function call
+
+[33mcommit 042bb77e645d144b6e0a7b0c73d12abdb55206d6[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue May 15 02:21:17 2018 +1000
+
+    how to calculate lagged values
+
+[33mcommit 3a9178b992737458ab4c575204aa0ac75c61380b[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue May 15 01:54:43 2018 +1000
+
+    DAM AT2A added a comment on calculating lagged features
+
+[33mcommit d0a029c9b305e345c052ad33098945003a625667[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue May 15 01:37:44 2018 +1000
+
+    DSI AT2A - calculating R2 for lasso and mod4
+
+[33mcommit 78cfa804c13670f0083784540164192680e3ff94[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue May 15 01:12:39 2018 +1000
+
+    DSI at2a tried the lasso method
+
+[33mcommit 5e8ed65bb97fc411cc2a1fbe80a9868ae10baf66[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon May 14 23:54:48 2018 +1000
+
+    --amend
+
+[33mcommit cefb309409574f4d12267be09049f31a7d5b99d5[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon May 14 23:53:42 2018 +1000
+
+    DSI AT2A - played with testing colinearity
+
+[33mcommit 10b86bded2ce259312f2acd6fa97492fbc411afc[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon May 14 22:21:21 2018 +1000
+
+    DAM At2a playing around with mean3 and mean6 lagged features
+
+[33mcommit ae00801f42e5cd3d4bceb977a68861bcaafe7ea4[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 13 22:10:54 2018 +1000
+
+    DSI AT2 - sleep analysis
+
+[33mcommit 683d828fc8e3a9e303b33c24cea70624da6b356b[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 13 20:19:08 2018 +1000
+
+    DSI AT2 process sleep data, trim NA rows and extra colmns from the file
+    fix the date formats
+    format duration as number
+    format sleep quality as a fraction
+
+[33mcommit 6d202e9e2175d2f480534d0f975d4c2e722907f3[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 13 20:17:03 2018 +1000
+
+    DSI AT2 meetings script is complete
+
+[33mcommit 5ba4d29fb5a49a7c968ae5fe20efa90e00756c2c[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 13 11:17:34 2018 +1000
+
+    DSI AT2 finished summarising the meetings data and extraacted some insights from meetings, in isolation of other data sets
+
+[33mcommit d20b182013765ba8903137e9207fe9c13b8eff4f[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 12 23:50:16 2018 +1000
+
+    DAM at2a lagged mean example
+
+[33mcommit 0a7785cf8a1793d9ebc3684ec0dbe9bb4a6a863a[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 12 21:26:00 2018 +1000
+
+    DAM at2a: plotting industry and location selerately, plotting mothly for 1 industry/location, plotting the peaks and troughs on a month by month with one line for each year, created a basic LM model with all the variabls. now i want to create lagged features using rolling sum/mean
+
+[33mcommit e824a88443706e8e68d70a5614a430a86ca65f49[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 12 17:24:32 2018 +1000
+
+    DAM at2A made progress on completing the tasks from the assignment, need to go back for analysis
+
+[33mcommit f07ab4f376dce5daa3be1fb8e61f3cf478d32bc9[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 12 16:28:12 2018 +1000
+
+    DAM AT2A looking at mean monthly sales by location and industry
+
+[33mcommit 3ea57f25d1b2ef7faa24805226c7165d13d2b4bf[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 12 14:47:15 2018 +1000
+
+    DAM bs03 finished excercises
+
+[33mcommit 756f2ae82fd77684e4ac2240ef7452e866aa4e04[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 12 13:43:58 2018 +1000
+
+    DAM bs03 - running gmb random forest excercise
+
+[33mcommit ca4dceaa103a454f44a6c42c6b9b33d5d23e71c7[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 12 12:42:14 2018 +1000
+
+    DAM bs03 -- random forest example
+
+[33mcommit a29dbf1fc3d6ef71f0e564ecbdd65794cf8cd3b3[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 12 12:12:43 2018 +1000
+
+    DAM bs03 -- tree pruning excercise
+
+[33mcommit 4e513d0d1024c4dfb004daa432e91e1e3f7c6292[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 12 12:02:05 2018 +1000
+
+    DAM bs03 -- tree pruning excercise
+
+[33mcommit 8611a7e80c67b54714566fca678a1aa674edb3bb[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 12 11:55:38 2018 +1000
+
+    DAM bs03 - finised the basic deceision tree excercise using rpart and create confusion matrix since it was a classification problem
+
+[33mcommit dcefe299462d08ee6fe9ae81ea00977d918204a1[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 12 11:33:43 2018 +1000
+
+    DAM bs03 added class files
+
+[33mcommit 4b60d243fba75b5e6bbbf003b4e8ce9afc8416c4[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 12 11:30:03 2018 +1000
+
+    DAM b03 - added stepsto calculate principle compnents PCAs for the hitters data set
+
+[33mcommit aca3b1321658f12a80d6a2374694462c175613c9[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 12 09:39:17 2018 +1000
+
+    DAM AT2 - explored the relation between industry and location and found that for one industry (6) it only has results in one location (1)
+
+[33mcommit d3c1669af425dce617621cf05a17fd86d8a000fd[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 12 09:37:28 2018 +1000
+
+    DAM AT2 - explored the relation between industry and location and found that for one industry (6) it only has results in one location (1)
+
+[33mcommit 625b610eb6a11ff48618ce32e742bc1d5d1ab6e3[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed May 9 23:18:44 2018 +1000
+
+    addded zscore and centering scaling methods, plotting correlation
+
+[33mcommit 88279beda9e4ac190bff39d17964644aa90be946[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed May 9 23:01:15 2018 +1000
+
+    min max scaling
+
+[33mcommit c8ed28d1a3c61fe3deb448aa3847b8c34cca649e[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed May 9 17:14:53 2018 +1000
+
+    DSI AT2 folder cleanup
+
+[33mcommit 24cbfad3a6e07ebac0be34aa2bc310f7efdca567[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed May 9 17:13:16 2018 +1000
+
+    DSI AT2 - group data
+
+[33mcommit 29c85467003fa3def08e456dab701a0bb1c7b6c6[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed May 9 17:12:13 2018 +1000
+
+    dam bs02 excerise file run
+
+[33mcommit d22339961c1d708b7be229aad5dd98677562cd05[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed May 9 17:11:52 2018 +1000
+
+    DAM at2a - initial data exploration and notes
+
+[33mcommit 0d9160fad496e3beda2c09fff1e13fe3e1af2eab[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon May 7 01:28:27 2018 +1000
+
+    DSI AT2 meetings data set: fixed up the labels for the number of meetings per day plot
+
+[33mcommit b8b583321728ef6180e16b203d024a92c759ddc3[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 6 23:23:22 2018 +1000
+
+    DSI AT2 continue cleaning dates in meetings dataset
+
+[33mcommit a7da973921caf34e168dfc332370859bbd5ab270[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 6 20:36:42 2018 +1000
+
+    DSI AT2 updated meetings data set with extract on 6/5/2018
+
+[33mcommit ad7b5f4beeb810eacc12ffa1adef8a0057e182c7[m
+Merge: 9c1d27d 2b6e36f
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 6 20:19:27 2018 +1000
+
+    Merge branch 'master' of https://github.com/mutazag/mdsi
+
+[33mcommit 2b6e36f686f4b3f836f4258320be6779938b1fc2[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 6 20:17:58 2018 +1000
+
+    DSI AT2 meeting data cleanup - adding comments
+
+[33mcommit 9c1d27d4f9df236a3bc5195e99764c5c4ae02f09[m
+Merge: 0e9f8ae f935990
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 6 20:16:18 2018 +1000
+
+    Merge branch 'master' of https://github.com/mutazag/mdsi
+
+[33mcommit 0e9f8ae8b2948cccd94c2ceaaea554e727d0e91f[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 6 20:16:09 2018 +1000
+
+    DSI AT2 Process Sleep Data, date cleanup
+
+[33mcommit f9359902d866c976b76ec8dcc269edf47aafee7f[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 6 18:17:54 2018 +1000
+
+    DSI AT2 cleaning up meetings data: remove non meeting events like bday reminders, cancled meetings, anniversaries, remove outliers or placeholders based on duration, remove 0 min duration meetings
+
+[33mcommit 6cfef4d59aca9b9b128c1a754b30408c03f32593[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun May 6 17:01:37 2018 +1000
+
+    DSI AT2 - meeting data set
+
+[33mcommit 639542f5fe4e185fe954b8aa89492816d298b563[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 5 22:01:00 2018 +1000
+
+    DAM BS02 Excercise 1 - added the use of caret::varImp to look at the importance of variables to predict outcomes
+
+[33mcommit 06f59d4c27cf211ad8267e62f9c42c0078da6580[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 5 21:21:24 2018 +1000
+
+    DAM bs01 - practice linear regression
+
+[33mcommit edabd223b97ea7652eebeb1d2d478f2fa8f0b9e6[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 5 20:45:26 2018 +1000
+
+    DAM bs01 - practice linear regression
+
+[33mcommit 77c368d549fa6e839cfc0079d844291c879fdc68[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 5 15:55:58 2018 +1000
+
+    DAM bs02 - exr 2 glm with extra bit to remove store id and compare with the best glm created by the exc file
+
+[33mcommit 153315f954f69f36e607890f16139697c56baaa1[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 5 14:59:50 2018 +1000
+
+    DAM bs02 - exr 1 trying to improve Adj R2 for the model
+
+[33mcommit 811e15cfe0e4c5389d11f5c786746c6820bd4957[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat May 5 12:37:04 2018 +1000
+
+    DAM bs02 - added excercise files
+
+[33mcommit b790521e84303512f5a173936a7ec7fdd3905699[m
+Author: mutaz (home) <mutaz.m.abughazaleh@student.uts.com.au>
+Date:   Wed Apr 25 17:37:25 2018 +1000
+
+    misc tidyr spread and gateher
+
+[33mcommit 9ae4929b359be9e70f2eef73286e600901e1f4e4[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue Apr 24 16:18:12 2018 +1000
+
+    cog api completed sentiment analysis
+
+[33mcommit 5d026309edff171bb2753473c9b7a182c218b6cd[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon Apr 23 23:41:55 2018 +1000
+
+    Cog API sample
+
+[33mcommit 6f4530d6f620efed55581f4b96a266b49ee45dd0[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Apr 22 09:04:52 2018 +1000
+
+    TextMining - using Tidy text - intro
+
+[33mcommit 90f1384913dfc350598915bfc8785a4179fc3496[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri Apr 20 09:30:43 2018 +1000
+
+    DAM AT1 excel files
+
+[33mcommit 24bfae568d94dae3bc0cbeac320a49ac7076be60[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri Apr 20 09:26:39 2018 +1000
+
+    DAM AT1 - finalise and submit
+
+[33mcommit 389bf59c3d671cb594c7ca2d133765c3ef1fe1dd[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Apr 19 21:24:54 2018 +1000
+
+    DAM AT1 - clustering:
+    created h_cluster based on different distance measures
+    manually evaulated different cuts, and chose k - 4,
+    plotted dendo grams and word clouds for resultant clousters (k=4)
+
+[33mcommit b91ce1ce81addc0607a4098c4b6d6ebfac4da0da[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Apr 19 17:12:05 2018 +1000
+
+    DAM AT1 - reran topic modeling on lemma-based-corpus
+
+[33mcommit 60ae49e64cba698150ef1a4f8b2d25485cb001a6[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Apr 19 15:55:02 2018 +1000
+
+    DAM AT1 - remove temp files
+
+[33mcommit 20296e011eca88718c0ed91705555def92404dfd[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Apr 19 15:54:28 2018 +1000
+
+    DAM AT1 - recreated visualisations using lemma to compare with stem
+
+[33mcommit 043f7054f3e03fefce49784902f3f478caff8c04[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Apr 19 15:29:30 2018 +1000
+
+    DAM AT1 - added a lemma transform in addition to stem for side by side comparison
+
+[33mcommit 078a087bce97fb21176a4c97372ad45692aa5736[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Apr 19 15:24:59 2018 +1000
+
+    DAM AT1 - stem vs lemmatise sample code
+
+[33mcommit e370ddacea30c8cb8a6169577b9e25f0c5b632ff[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Apr 19 14:58:27 2018 +1000
+
+    DAM AT1 - clustering - start
+
+[33mcommit 81c81cdc7c99d5b043619d11d75519e4c61738e8[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Apr 19 12:23:54 2018 +1000
+
+    DAM AT1 - topic modeling - thoughts on how to determine K using clustering technique
+
+[33mcommit 23fea50aea6d099e64e681d94a52d0eb43ecc12f[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Apr 19 12:18:57 2018 +1000
+
+    DAM AT1 - topic modeling - output for multiple k
+    intial inspection of topic/terms to extract meaning
+
+[33mcommit 74beaaa5dbf627d3b9734bf184fbb88bb9df2cd1[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Apr 19 10:30:06 2018 +1000
+
+    DAM AT1 - topic modeling v2
+
+[33mcommit b1fae2a7f92c54d0cec2c7974a0d5ffa816fc8da[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Apr 19 01:45:13 2018 +1000
+
+    DAM AT1 - topic modeling v1
+
+[33mcommit 63ab9f7341d980cfbf440ad509438c67c5313bbe[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Apr 19 00:46:08 2018 +1000
+
+    DAM AT1 - middle of the scale image
+
+[33mcommit 821501d8d2a6d28f4b113dc475102b297a88e824[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Thu Apr 19 00:39:46 2018 +1000
+
+    DAM AT1 - added iteration to improve stopwords
+    created two visualisastions: bar and worldcloud of top 100 terms
+
+[33mcommit 85485b0a1ad90dd3a01a2fde467dbc76f9837877[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed Apr 18 20:27:58 2018 +1000
+
+    DAM AT1 - finshed data cleansing
+
+[33mcommit be64634c6b07377b007d5e44ef77e6ff32940e02[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed Apr 18 18:10:15 2018 +1000
+
+    DAM AT1 - data cleansing
+
+[33mcommit feeaa98e4be6dc950be3eafb6aee8b7ad1a81221[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed Apr 18 13:18:43 2018 +1000
+
+    DAM AT1 - start
+
+[33mcommit 8e9c9574c5a799576599ef757bb34f072c4b917a[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon Apr 16 23:11:52 2018 +1000
+
+    DAM textmining create DTM and freq
+
+[33mcommit 83013adc7cfdda974025e8e61cbc0e7bf5fafc3b[m
+Merge: 0e10005 04b3d6f
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Apr 15 22:51:22 2018 +1000
+
+    Merge branch 'master' of https://github.com/mutazag/mdsi
+
+[33mcommit 0e10005c4c651d4557d49f9179893dfb34ac4928[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Apr 15 22:51:01 2018 +1000
+
+    DAM textmining - load corpus
+    remove punctuations and numbers
+    remove stop words
+    stemming
+    NEXT: create document term matrix (DTM) and start exploring
+
+[33mcommit d9329331315cdef3015ae846b47d809cb0613ece[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Apr 15 22:06:07 2018 +1000
+
+    DAM textmining - add text files and r file
+
+[33mcommit 04b3d6fab81b3f823602d7518e33d52c0434827d[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Apr 15 20:49:48 2018 +1000
+
+    DAM wk4 pre work - add label to legent in shiny app qplot
+
+[33mcommit b4a346d0c1c52fc8e7e9c1e974e110ad8619604e[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sun Apr 15 20:47:12 2018 +1000
+
+    DSI Wk5 data challange data set
+
+[33mcommit 4b41eb1dfee2b4d3ccc156b4904031756b1466c0[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue Apr 10 20:46:08 2018 +1000
+
+    DSI - Wk5 - add color and mean to box plot
+
+[33mcommit 17fbf2110364e1e34b46ddc8c804785aa006a385[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Tue Apr 10 20:04:49 2018 +1000
+
+    DSI - Wk5 - mystry box data challange
+
+[33mcommit b08cf83e61d75c08260becbf646f99dbfd3e7772[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Apr 7 14:34:06 2018 +1000
+
+    DAM bs01 excercise - topic modelling
+
+[33mcommit 37041943446e1126c065b13233206f6d46752042[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Apr 7 14:04:36 2018 +1000
+
+    DAM bs01 excercise 2 - network graph
+
+[33mcommit 2a47d8696b3a538d9795521b60f44975e3ba0a95[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Apr 7 12:15:54 2018 +1000
+
+    DAM bs01 excercise 2 - kmean clustering with dist and cosine
+
+[33mcommit b3fe101bd754707849f91867a8a933446383f2e8[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Apr 7 11:47:17 2018 +1000
+
+    DAM bs01 excercise 2 - hierarchical clustring finish---- need to do the cosineSim
+
+[33mcommit b9c865645a0538f734708aa031f91defa67c0f28[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Apr 7 11:27:36 2018 +1000
+
+    DAM bs01 excercise 2 - hierarchical clustring start
+
+[33mcommit d201ba909bc5d7886b2392d9b21d8961592d47d8[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Apr 7 11:26:06 2018 +1000
+
+    DAM bs01 excercise 1 - basic text mining using tm library. go back and do the RWeka for ngram analysis
+
+[33mcommit 2a0c227732314a80c0a4a85992b42d84b03364e4[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Apr 7 10:10:56 2018 +1000
+
+    DAM bs01 Text Mining Excercise
+
+[33mcommit 6df28fcd2be093c9759e7f6c14295e80bc463b77[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Sat Apr 7 10:10:31 2018 +1000
+
+    update R env
+
+[33mcommit cccdfc7a528bda2c1eba02a4709110c7be4b21a1[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri Apr 6 23:30:32 2018 +1000
+
+    DAM wk04-pre shinyapp
+
+[33mcommit 6fd6abee682059f5b261bbd7eed372d017d4a471[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri Apr 6 23:17:25 2018 +1000
+
+    DAM wk04-pre ggplot
+
+[33mcommit b869e175386faaf3c9f73429086dfe278100cac5[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri Apr 6 23:01:05 2018 +1000
+
+    DAM wk04-pre aggregates
+
+[33mcommit 57eff4ff664b09ddf4ece8f8e4b7d8cf92e5b5e5[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri Apr 6 22:40:52 2018 +1000
+
+    DAM wk04 pre - data set
+
+[33mcommit e709786532ee8a142dd1fd79987d7e5e73d2309c[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri Apr 6 22:37:18 2018 +1000
+
+    DAM ISL Ch02 Excecise 10
+
+[33mcommit 373dba22b79600c7e3347244f46bfd8d38aed7c3[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed Apr 4 09:52:02 2018 +1000
+
+    DSI- class explore syd weather data set
+
+[33mcommit f86235c6f2731b962f67516db1050320241f5920[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon Apr 2 20:17:50 2018 +1000
+
+    ISL Ch02-Excercise 9
+
+[33mcommit 91cec55a98c6d61b275bbc5c8f6456c821b817cf[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon Apr 2 19:21:12 2018 +1000
+
+    ISL Ch02-Excercise 8
+
+[33mcommit cdf684293a2feb809e0204090a8f9ad71eed4fc5[m
+Merge: 1564708 c0872da
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon Apr 2 11:24:00 2018 +1000
+
+    Merge branch 'master' of https://github.com/mutazag/mdsi
+
+[33mcommit 1564708d71441234b0a7036d61f909c8cb3449ba[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon Apr 2 11:19:18 2018 +1000
+
+    ISL CH02 2.3.4 summary
+
+[33mcommit 461f98f31a2b72f01a3cab421eb23ece34e3aaf4[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon Apr 2 11:17:25 2018 +1000
+
+    ISL CH02 2.3.4 plot(scatter plot and box plot), histogram, pairs, attach function and identfy
+
+[33mcommit af6c863c3cdb30269321ead2406cfe34087462da[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon Apr 2 11:07:18 2018 +1000
+
+    ISL CH02 2.3.4 load data, omit missing data, fix sheet, download file
+
+[33mcommit fc9e0407742f8b1aded22c6b96a8efc53b1dfd6b[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon Apr 2 10:58:45 2018 +1000
+
+    ISL CH02 2.3.3 matrix
+
+[33mcommit ec6cc82b1c0eeecd5c2a17b195f69847b4ad4273[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon Apr 2 10:55:05 2018 +1000
+
+    ISL CH02 2.3.2 plot contour image
+
+[33mcommit 032d79eb4d50aa2667c07f071853f0f688dcbb71[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Mon Apr 2 10:40:15 2018 +1000
+
+    ISL CH02 2.3.1
+
+[33mcommit c0872da5c0ca072f60cd57eb28c6a460b6542937[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri Mar 30 02:38:16 2018 +1100
+
+    start summarising sleep events into a new df
+
+[33mcommit fa9248e6115db30e0761bbb03d2f0bf41ab03735[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri Mar 30 02:20:39 2018 +1100
+
+    analysing sleep eventss
+
+[33mcommit b8e8bfaca2318f7aa47871a3b0a6dfdf2fd6a71e[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri Mar 23 02:08:55 2018 +1100
+
+    DAM wk02 pre - plotting diamonds data
+
+[33mcommit cfd66db585502e09ac69b27749b95fbcf4b50076[m
+Author: mutaz mdsi (on book) <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Fri Mar 23 01:57:40 2018 +1100
+
+    test local config changes
+
+[33mcommit 734a96fb02718caa2a22fdaea454432f9112eddd[m
+Author: Mutaz Abu Ghazaleh <mutaza@microsoft.com>
+Date:   Fri Mar 23 01:52:12 2018 +1100
+
+    DAM -- add comments: Activities for Week 2 (19 Mar 2018)
+
+[33mcommit 8c7d6305e763392f96fdaa91a3c9793c839acd2e[m
+Author: Mutaz Abu Ghazaleh <mutaza@microsoft.com>
+Date:   Fri Mar 23 01:50:28 2018 +1100
+
+    DAM wk02 pre - finish excercise
+
+[33mcommit f64a8b9a773babcfd256e95fe79e4bee7526acf5[m
+Author: Mutaz Abu Ghazaleh <mutaza@microsoft.com>
+Date:   Fri Mar 23 01:26:46 2018 +1100
+
+    DAM start on wk 02 pre work
+
+[33mcommit ebfceb3e60d0e880ec71bd10b50fc31597e2589d[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed Mar 14 22:31:47 2018 +1100
+
+    test2
+
+[33mcommit 6910dfcd0cbe7b67000ae900c9010e44cc6b493a[m
+Author: mutaz mdsi <mutaz.m.abughazaleh@student.uts.edu.au>
+Date:   Wed Mar 14 22:23:11 2018 +1100
+
+    test
+
+[33mcommit e805906860adf16e5860d989bfdb06415fbfb2a8[m
+Author: Mutaz Abu Ghazaleh <mutazag@hotmail.com>
+Date:   Wed Mar 14 22:07:29 2018 +1100
+
+    Initial commit

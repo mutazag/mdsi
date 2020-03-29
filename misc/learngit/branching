@@ -1,0 +1,86 @@
+
+
+https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+
+
+1) create a new branch 
+
+  git branch learngit
+  
+  
+2) switch to the new branch 
+
+  git checkout learngit
+  
+  
+notes: 
+
+* you can use the command: "git checkout -b learngit" to combine the above two steps
+
+* to switch back to master
+
+  git checkout master
+  
+* to list branches 
+
+  git branch 
+  
+  
+at this stage github (remote) knows nothing about the new branch. look at gitk to see where does the new branch 
+sit in relation to local master and remote master
+
+3) push my branch to upstream, notice the use of --set-upstream
+  
+  git push --set-upstream origin learngit 
+
+
+
+notes: 
+
+* can make more changes to files in the local branch and keep pushing to upstream
+
+* gitk will show that local branch is advancing independently from master
+
+* can now switch between branches to make edits, local files in one branch will not be visibile in other branches if are not synced with remote then locally to the new branch or branches were merged 
+
+
+4) if i want to merge master back into the new branch i will have to first commit all local changes in the branch (or stash them -- about that later), then do a git merge command 
+
+  git checkout learngit
+  git merge master 
+  
+notes: 
+
+* checkout to the local branch to be updated
+* merge refering to the other branch that need to be merged into the sleected branch, in this case, master is merged into learngit
+* note how gitk now shows the branch and then the merge with the master 
+* files that where added independently in master are now also visible in the branch (when checkout to branch is performed) 
+
+
+
+
+
+5) go online on git hub to create a pull request, review and merge 
+
+notes:
+* next time you pull a master it will have the new changes from branch
+* always remember to update the branch with changes from master before starting new code updates
+* once pull requet is approved and branch is not reqired anymore to track local changes, it can be deleted 
+
+6) delete a local branch 
+
+  git branch -d learngit
+  
+notes: 
+* start over again for new branches
+
+
+<<<<<<< HEAD
+7) list and delete remote branch 
+
+  git branch -r 
+  git branch -r origin/learngit -d 
+
+
+=======
+>>>>>>> 7cf2b0b8459a967639bbb2c87018f6e2d58dea00

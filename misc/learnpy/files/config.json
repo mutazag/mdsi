@@ -1,0 +1,17 @@
+[
+    {
+        "server": "GBN-PI01",
+        "tags": [
+            "GBN.PP.FI-3221.PV",
+            "GBN.PP.FI-3221.PV"
+        ]
+    }, 
+
+    {
+        "server": "GBN-PI02",
+        "tags": [
+            "GBN.PP.FI-3221.PV",
+            "GBN.PP.FI-3221.PV"
+        ]
+    }
+]
